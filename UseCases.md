@@ -35,3 +35,11 @@ Corporate manager uploads or identifies project information to which license and
 
 **Primary Actor:**
 Corporate Developer
+
+# Use Case 3
+
+**Title:**
+Communicate the approval or disapproval of a file/package
+
+**Primary Actor:**
+Corporate Manager
