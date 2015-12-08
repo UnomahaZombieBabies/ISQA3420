@@ -39,7 +39,26 @@ Corporate Developer
 # Use Case 3
 
 **Title:**
-Communicate the approval or disapproval of a file/package
+Contributing Back to Open Source Community
 
 **Primary Actor:**
-Corporate Manager
+<TBD>
+
+**Goal in Context:**
+When the company decides they are going to sell a product that contains open source software with licensing restrictions (such copy left), they are required to contribue the source back to the open source community.
+
+**Stakeholders:**
+* Corporate Manager: <TBD>
+* Corporate Developer: <TBD>
+
+**Preconditions:**
+* The company has decided to sell a product which contains software with licensing restrictions
+
+**Main Success Scenario:**
+Corporate developer identifies correct source and posts modified source to the open source community.
+
+**Failed End Conditions:**
+Corporate developer fails to post the source back to the community or the source is not the relevant source.
+
+**Trigger:**
+Corporate manager notifies the corporate developer that we need to contribute the source for a project backup to the open source community. 
