@@ -48,8 +48,8 @@ Contributing Back to Open Source Community
 When the company decides they are going to sell a product that contains open source software with licensing restrictions (such copy left), they are required to contribue the source back to the open source community.
 
 **Stakeholders:**
-* Corporate Manager: <TBD>
-* Corporate Developer: <TBD>
+* Corporate Manager: Marks a project as used externally.  Looks up the projects relevant packages.  Sends notification and packages to the corporate developer.
+* Corporate Developer: Receives package list from corporate manager.  Identifies and finds modified packages.  Posts modified packages to the correct web location.
 
 **Preconditions:**
 * The company has decided to sell a product which contains software with licensing restrictions
