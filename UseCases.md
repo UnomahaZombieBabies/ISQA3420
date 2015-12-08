@@ -31,7 +31,7 @@ Corporate manager uploads or identifies project information to which license and
 # Use Case 2
 
 **Title:**
-[To be determined]
+Supply software to the system.
 
 **Primary Actor:**
 Corporate Developer
