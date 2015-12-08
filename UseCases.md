@@ -42,7 +42,7 @@ Corporate Developer
 Contributing Back to Open Source Community
 
 **Primary Actor:**
-<TBD>
+Corporate Developer
 
 **Goal in Context:**
 When the company decides they are going to sell a product that contains open source software with licensing restrictions (such copy left), they are required to contribue the source back to the open source community.
