@@ -28,3 +28,10 @@ Corporate manager receives inaccurate or invalid license and vulnerability infor
 Corporate manager uploads or identifies project information to which license and vulnerability information is provided
 
 
+# Use Case 2
+
+**Title:**
+[To be determined]
+
+**Primary Actor:**
+Corporate Developer
