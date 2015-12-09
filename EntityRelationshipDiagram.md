@@ -1,4 +1,4 @@
 # Entity Relationship Diagram
 
-![erd](https://cloud.githubusercontent.com/assets/14999371/11675890/2fd2db36-9df3-11e5-9798-ab29c99b80cd.jpg)
+![erd](https://cloud.githubusercontent.com/assets/14999371/11675926/773d4222-9df3-11e5-88c6-da1ffce00f08.jpg)
 
