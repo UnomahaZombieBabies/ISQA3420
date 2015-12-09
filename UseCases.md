@@ -31,10 +31,30 @@ Corporate manager uploads or identifies project information to which license and
 # Use Case 2
 
 **Title:**
-Supply software to the system.
+Supply Software to the System
 
 **Primary Actor:**
 Corporate Developer
+
+**Goal in Context:**
+The corporation needs a central repository in order to maintain the software more effectively.  The repository will store a combination of the open source software packages out of the box, the modified open source software, and proprietary code surrounding it.  Developers need a way to contribute to it. 
+
+**Stakeholders:**
+* Corporate Developer: Submits code to the repository.  Retrieves code from the repository. Maintains the repository.
+
+**Preconditions:**
+* Any open source software included in the project has been approved by the corporate manager
+* The developer has built enough of the project to check in the code into the repository
+ 
+**Main Success Scenario:**
+Corporate developer successfully stores his or her code into the repository and is available for retrieval later. 
+
+**Failed End Conditions:**
+Corporate developer failed to store the code into the repository or cannot access the code later. 
+
+**Trigger:**
+Corporate developer feels his progress is significant enough to save in the repository.
+
 
 # Use Case 3
 
