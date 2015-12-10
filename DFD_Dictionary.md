@@ -105,16 +105,16 @@
 >*Yes or No response to notify if the package/file is in the database.*
 
 ###### File License and CPE Info
->*Todo*
+>*For a given file / package, the license, CPE, and CVE information returned from the lookup processes*
 
 ###### Project Info Request
->*Todo*
+>*For a given project, return the related document, package, and file information*
 
 ###### Project Info Response
->*Todo*
+>*The related document, package, and file information for a given project*
 
 ###### Project Policy Request
->*Todo*
+>*Retrieve, add, or update the current policy on vulernabilities and licenses*
 
 ###### Project Policy Response
->*Todo*
+>*Returns the current policy on vulnerabilities and licenses*
