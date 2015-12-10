@@ -49,4 +49,4 @@
 >*U.S. government repository of standards-based vulnerability management data represented using SCAP*
 
 ###### Project Policy DB
->*Todo*
+>*Store for all project policies*
