@@ -57,7 +57,7 @@
 >*Request CPE information from National Vulnerability Database*
 
 ###### CPE Response
->*Todo*
+>*Response from National Vulnerability Database with CPE information*
 
 ###### File/ Package License Information
 >*Todo*
