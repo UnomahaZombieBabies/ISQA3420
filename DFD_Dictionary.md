@@ -66,10 +66,10 @@
 >*Request from Manage Code Information process to License Scanner*
 
 ###### Package Vulnerability Lookup
->*Todo*
+>*Request from NIST CPE for code vulnerabilities*
 
 ###### Vulnerability Information Response
->*Todo*
+>*Response to Manage Code Information process from NIST CPE with code vulnerabilities*
 
 ###### CVE Request
 >*Using the CPE of a package, request the related CVE information*
