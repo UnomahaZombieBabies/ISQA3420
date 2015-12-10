@@ -2,7 +2,25 @@
 
 ## Sample Software Manifest
 
-This is a place holder for the Sample Software Manifest 
+### Document
+
+DocumentLicense: 
+
+Author:
+
+DateCreated:
+
+### Package
+
+Name:
+
+SHA1:
+
+CPE:
+
+Licenses:
+
+Vulnerabilities:
 
 ## Sample Policy Document
 
