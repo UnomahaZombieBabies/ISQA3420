@@ -25,12 +25,14 @@
 >*Go between process for sending/receiving CPE information between NIST CPE and National Vulnerability Database*
 
 ###### Manage Project Information
->*Go between process for sending/receiving project information between the Corporate Manager and SPDX DB*
+>*Go between process for sending/receiving project information between the Corporate Manager and SPDX DB*  
 
 ## Data Stores  
 ###### NIST CPE Information  
->*Store for all application classes mainly to be used in conjunction with the National Vulnerability Database*  
-###### SPDX DB  
->*Repository for all data regarding the development and deployment of an application*  
-###### National Vulnerabilty Database  
->*U.S. government repository of standards-based vulnerability management data represented using SCAP*  
+>*Store for all application classes mainly to be used in conjunction with the National Vulnerability Database*
+
+###### SPDX D
+>*Repository for all data regarding the development and deployment of an application*
+
+###### National Vulnerabilty Database
+>*U.S. government repository of standards-based vulnerability management data represented using SCAP*
