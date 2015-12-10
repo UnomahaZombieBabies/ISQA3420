@@ -28,6 +28,9 @@
 ###### Manage Project Information
 >*Go between process for sending/receiving project information between the Corporate Manager and SPDX DB*  
 
+###### Manage Project Policy Information
+>*Process by which all project policies are handled*
+
 ###### Contributing Back to Open Source Community
 >*Process by which the corporate developer pushes code changes out to the community*
 
