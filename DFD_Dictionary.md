@@ -50,3 +50,49 @@
 
 ###### Project Policy DB
 >*Store for all project policies*
+
+## Data Flows  
+###### CPE Request
+>*Todo*
+###### CPE Response
+>*Todo*
+###### File/ Package License Information
+>*Todo*
+###### File/ Package License Lookup
+>*Todo*
+###### Package Vulnerability Lookup
+>*Todo*
+###### Vulnerability Information Response
+>*Todo*
+###### CVE Request
+>*Todo*
+###### CVE Response
+>*Todo*
+###### CVE Information Load
+>*Todo*
+###### Project File
+>*Todo*
+###### Project File/Info Request
+>*Todo*
+###### Project File/Info Response
+>*Todo*
+###### File/ Package
+>*Todo*
+###### File/ Package Response
+>*Todo*
+###### Updated Codebase
+>*Todo*
+###### File SHA1 Request
+>*Todo*
+###### File SHA1 Response
+>*Todo*
+###### File License and CPE Info
+>*Todo*
+###### Project Info Request
+>*Todo*
+###### Project Info Response
+>*Todo*
+###### Project Policy Request
+>*Todo*
+###### Project Policy Response
+>*Todo*
