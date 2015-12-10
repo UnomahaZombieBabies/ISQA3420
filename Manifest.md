@@ -4,9 +4,9 @@
 
 DocumentLicense: 
 
-Author:
+DocumentCreator:
 
-DateCreated:
+DocumentCreateDate:
 
 ### Package
 
