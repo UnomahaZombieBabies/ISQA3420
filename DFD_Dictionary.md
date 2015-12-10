@@ -72,31 +72,31 @@
 >*Todo*
 
 ###### CVE Request
->*Todo*
+>*Using the CPE of a package, request the related CVE information*
 
 ###### CVE Response
->*Todo*
+>*Return the related CVE information given a CPE*
 
 ###### CVE Information Load
->*Todo*
+>*Pass the CVE information to be stored into the database*
 
 ###### Project File
->*Todo*
+>*Code to be checked into the Version Control System*
 
 ###### Project File/Info Request
->*Todo*
+>*For a given project, return the related document, package, and file information*
 
 ###### Project File/Info Response
->*Todo*
+>*The related document, package, and file information for a given project*
 
 ###### File/ Package
->*Todo*
+>*Submission of a file or package to be stored in the SPDX DB with retrieved license and vulnerabilities*
 
 ###### File/ Package Response
->*Todo*
+>*Indication that the submission was successful or not*
 
 ###### Updated Codebase
->*Todo*
+>*Open source software that is contributed back to the open source community*
 
 ###### File SHA1 Request
 >*Using the SHA1 as an identifier, is this package/file in the database?*
