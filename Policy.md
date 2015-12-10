@@ -2,6 +2,21 @@
 
 ### Licenses
 
+Copyleft
+
+| License |  Policy   |
+| ---------------|:---------:|
+| GPLv2  | Red     | 
+| GPLv3  | Black    |  
+
+  
+Permissive
+
+| License |  Policy   |
+| ---------------|:---------:|
+| Apache  | Yellow     | 
+| MIT | Green    |  
+
 
 ###Vulnerabilities
 
