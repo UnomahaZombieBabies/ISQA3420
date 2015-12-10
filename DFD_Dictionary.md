@@ -9,7 +9,7 @@
 > Submits open source software contributions for projects she/he is involved
 
 ###### Open Source Repository
-> *Todo*
+>**
 
 ## Processes
 ###### License Scanner  
@@ -29,10 +29,11 @@
 >*Go between process for sending/receiving project information between the Corporate Manager and SPDX DB*  
 
 ###### Contributing Back to Open Source Community
->*Todo*
+>*Process by which the corporate developer pushes code changes out to the community*
 
 ###### CVE Information Retrieval
->*Todo*
+>*Process that sends request to National Vulnerability Database for CVE information*  
+>*Process which receives CVE information to incorporate with managed code*
 
 ## Data Stores  
 ###### NIST CPE Information  
