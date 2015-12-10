@@ -28,6 +28,12 @@
 ###### Manage Project Information
 >*Go between process for sending/receiving project information between the Corporate Manager and SPDX DB*  
 
+###### Contributing Back to Open Source Community
+>*Todo*
+
+###### CVE Information Retrieval
+>*Todo*
+
 ## Data Stores  
 ###### NIST CPE Information  
 >*Store for all application classes mainly to be used in conjunction with the National Vulnerability Database*
