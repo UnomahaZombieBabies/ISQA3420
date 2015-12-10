@@ -54,7 +54,7 @@
 ## Data Flows  
 
 ###### CPE Request
->*Todo*
+>*Request CPE information from National Vulnerability Database*
 
 ###### CPE Response
 >*Todo*
