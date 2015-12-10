@@ -5,10 +5,11 @@
 > Employee in the corporation responsible for reviewing and approving open source software based off its licenses and vulnerabilities
 
 ###### Corporate Developer
-
 > Employee in the corporation responsible for developing software and incorporating open source software  
 > Submits open source software contributions for projects she/he is involved
 
+###### Open Source Repository
+> *Todo*
 
 ## Processes
 ###### License Scanner  
@@ -36,3 +37,6 @@
 
 ###### National Vulnerabilty Database
 >*U.S. government repository of standards-based vulnerability management data represented using SCAP*
+
+###### Project Policy DB
+>*Todo*
