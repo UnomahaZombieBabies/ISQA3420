@@ -2,14 +2,14 @@
 
 ## Entities
 ###### Corporate Manager
-> Employee in the corporation responsible for reviewing and approving open source software based off its licenses and vulnerabilities
+> *Employee in the corporation responsible for reviewing and approving open source software based off its licenses and vulnerabilities*
 
 ###### Corporate Developer
-> Employee in the corporation responsible for developing software and incorporating open source software  
-> Submits open source software contributions for projects she/he is involved
+> *Employee in the corporation responsible for developing software and incorporating open source software*
+> *Submits open source software contributions for projects she/he is involved*
 
 ###### Open Source Repository
-> Outside repository for the open source community, similar to GitHub
+> *Outside repository for the open source community, similar to GitHub*
 
 ## Processes
 ###### License Scanner  
@@ -99,10 +99,10 @@
 >*Todo*
 
 ###### File SHA1 Request
->*Todo*
+>*Using the SHA1 as an identifier, is this package/file in the database?*
 
 ###### File SHA1 Response
->*Todo*
+>*Yes or No response to notify if the package/file is in the database.*
 
 ###### File License and CPE Info
 >*Todo*
