@@ -28,5 +28,8 @@
 
 ## Data Stores
 ###### NIST CPE Information
+>*Store for all application classes mainly to be used in conjunction with the National Vulnerability Database*
 ###### SPDX DB
+>*Repository for all data regarding the development and deployment of an application*
 ###### National Vulnerabilty Database
+>*U.S. government repository of standards-based vulnerability management data represented using SCAP*
