@@ -60,10 +60,10 @@
 >*Response from National Vulnerability Database with CPE information*
 
 ###### File/ Package License Information
->*Todo*
+>*Response to Manage Code Information process from the License Scanner*
 
 ###### File/ Package License Lookup
->*Todo*
+>*Request from Manage Code Information process to License Scanner*
 
 ###### Package Vulnerability Lookup
 >*Todo*
