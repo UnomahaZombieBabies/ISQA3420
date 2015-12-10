@@ -9,7 +9,7 @@
 > Submits open source software contributions for projects she/he is involved
 
 ###### Open Source Repository
->**
+>*Outside repository for the open source community, similar to GitHub*
 
 ## Processes
 ###### License Scanner  
