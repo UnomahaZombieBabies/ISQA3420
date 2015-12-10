@@ -10,11 +10,12 @@ Title Slide
 Introduction
 -  Motivations for open source
 - - Keep costs down
+- - Speed to market
 - - Many problems are already solved and available
 - - Quality through cooperation
 - - Proven Reliable
 -  Challenges
-- - Outside code introduces risks with licenses and security vulnerabilities
+- - Outside code introduces risks and responsibilities with licenses and security vulnerabilities
 - - Must create new processes to manage the use of open source software
 - - May need to publicly publish our use of the open source software
 
@@ -48,4 +49,13 @@ Data Flow Diagram
 
 ## Slide 8
 Entity Relationship Diagram
+
 ![erd](https://cloud.githubusercontent.com/assets/14999371/11675960/ab1bb66e-9df3-11e5-921a-ef483bfa38c9.jpg)
+
+## Slide 9
+Conclusion
+- Using Open Source Software has many perks
+- There are also risks and responsibilities inherent with Open Source Software
+- This design can support open source software inclusion while reducing he impact of the risks through good process and management
+
+
