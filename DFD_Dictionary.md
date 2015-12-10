@@ -10,11 +10,21 @@
 
 
 ## Processes
-###### License Scanner
-###### Manage Code Information
+###### License Scanner  
+>*Receives File/Package from Process Manage Code Information*  
+>*Sends File/Package License Information to Process Manage Code Information*  
+
+###### Manage Code Information  
+>*Primary process for entire Package management*
+
 ###### Version Control / Build Server
+>*Controls build versions for files & packages*
+
 ###### Manage CPE Information
+>*Go between process for sending/receiving CPE information between NIST CPE and National Vulnerability Database*
+
 ###### Manage Project Information
+>*Go between process for sending/receiving project information between the Corporate Manager and SPDX DB*
 
 ## Data Stores
 ###### NIST CPE Information
